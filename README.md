@@ -1,4 +1,4 @@
-# Stock Master
+# Aplicação web para controle de estoque desenvolvido em PHP e MySQL - Trabalho de Conclusão de Curso(TCC)
 
 Stock Master é uma aplicação web para gerenciamento de estoque, desenvolvida utilizando PHP e Banco de Dados
 
